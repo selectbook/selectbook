@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <h2> Hi, I'm SelectBook!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at Beijing </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginner at <a href="https://www.byd.com">BYD</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em></br>Software Enginner at <a href="https://www.byd.com">BYD</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/selectbook?label=follow&style=social)](https://github.com/Thaiane)
