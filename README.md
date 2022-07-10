@@ -6,7 +6,7 @@
 
 ### love coding and writing, of course cat
 
-[👉《正在做的产品》谛听 DataHear](https://datahear.com/)
+[👉 谛听 DataHear (正在做的产品)](https://datahear.com/)
 
 ### Visitors
 
