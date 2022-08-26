@@ -6,7 +6,7 @@
 
 ### love coding and writing, of course cat
 
-[👉 谛听 DataHear (正在做的产品)]
+[👉 谛听 DataHear (正在做的开源项目)](www.datahear.com)
 
 ### Visitors
 
@@ -23,7 +23,7 @@ const selectbook = {
   tools: [Spring-Boot,Hive,Spark,Flink],
   architecture: ["microservices", "event-driven", "streaming system"],
   communities: {
-      datahear: "Founder of https://datahear.com"
+      datahear: "Founder of www.datahear.com"
   },
   challenge: "No Code"
 }
