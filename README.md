@@ -21,7 +21,7 @@ const selectbook = {
   pronouns: "he",
   code: [JAVA],
   tools: [Spring-Boot,Hive,Spark,Flink],
-  architecture: ["distributed system", "database", "streaming system"],
+  architecture: ["distributed system", "database", "streaming system", "IOT"],
   communities: {
       datahear: "Founder of https://www.datahear.com"
   },
